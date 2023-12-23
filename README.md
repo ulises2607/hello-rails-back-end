@@ -27,7 +27,7 @@
 
 This is a **Hello Rails Back-End** created with Ruby on Rails + Postgresql, as an API only application, as the back-end only part of the projects, testing how to separate the project into different repositories. 
 
-- [Front-End Link](https://github.com/hajnaloltyan/hello-react-front-end)
+- [Front-End Link](https://github.com/ulises2607/hello-react-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
